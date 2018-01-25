@@ -54,7 +54,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getFormData.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trax.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/trax.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tahoe.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/tahoe.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getFormData.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom-post/js/getFormData.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -107,42 +127,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ajax/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="109" column="34" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../react/my-app/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/tamarillo/tag.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pizzamia/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pizzamia/templates/main-slider.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pizzamia/templates/about-restaurant.php" />
@@ -193,6 +190,7 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/custom-post/index.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/custom-post/css/frontend.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/custom-post/js/getFormData.js" />
+        <option value="$PROJECT_DIR$/test/tahoe.css" />
       </list>
     </option>
   </component>
@@ -509,15 +507,15 @@
       <workItem from="1515139776296" duration="15153000" />
       <workItem from="1515485484432" duration="613000" />
       <workItem from="1515570551732" duration="3124000" />
-      <workItem from="1516701126599" duration="7498000" />
+      <workItem from="1516701126599" duration="7932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241747000" />
+    <option name="totallyTimeSpent" value="242181000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="1" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -556,13 +554,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/tamarillo/templates/gallery-tamarillo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/tamarillo/templates/blog-tamarillo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -816,14 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/trax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom/filelog.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -911,6 +894,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom-post/js/getFormData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom-post/css/frontend.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -919,10 +910,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom-post/js/getFormData.js">
+    <entry file="file://$PROJECT_DIR$/test/trax.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tahoe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
           <folding />
         </state>
       </provider>

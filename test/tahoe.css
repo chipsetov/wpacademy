@@ -1,0 +1,160 @@
+#pg-8217-0 > .panel-row-style {
+    background-position: center;
+}
+
+#panel-8217-9-1-0 a:first-child {
+    background-color: #0664ae !important;
+}
+
+#panel-8217-9-1-0 a:last-child {
+    background-color: #e03513 !important;
+}
+
+#panel-8217-9-1-0 a {
+    height: 66px;
+    font-size: 18px;
+    line-height: 33px;
+    font-weight: 400 !important;
+    width: 45%;
+    color: #e1eff7 !important;
+    /* background: #df3512; */
+    display: block;
+    margin: 0 auto;
+    padding: 3%;
+    text-align: center;
+    float: none;
+    border: none !important;
+}
+
+#panel-8217-9-1-0 .ff-tab {
+    padding: 2% 0% 5% 0% !important;
+    padding-right: 27% !important;
+}
+
+.wp.inner-pg #inner-content .so-panel h2 {
+    font-size: 30px;
+    /* padding-bottom: 30px;*/
+    margin-bottom: 30px;
+    color: #0765AF;
+}
+
+#pg-w5a68802965abd-0 {
+    margin-bottom: 7px !important;
+}
+
+#pg-w5a68802965abd-0 {
+    margin-bottom: 7px !important;
+}
+
+#pg-8217-0 {
+    margin-bottom: 0px !important;
+}
+
+#pg-8217-8 {
+    margin-bottom: 0px !important;
+}
+
+#pg-8217-9 {
+    margin-bottom: 0px !important;
+}
+
+#pg-8217-10 {
+    margin-bottom: 0px !important;
+}
+
+.wp.inner-pg #main {
+    padding-bottom: 0px !important;
+}
+
+.wp.inner-pg.full-pg #inner-content {
+    margin-bottom: 0px !important;
+}
+
+#pg-w5a675326314e7-0 {
+    margin-bottom: 7px !important;
+}
+
+#pg-w5a675326314e7-1 {
+    margin-bottom: 7px !important;
+}
+
+.wp.inner-pg #main {
+    padding-top: 0px !important;
+}
+
+#top-content {
+    display: none;
+}
+
+.sub {
+    vertical-align: sub;
+    font-size: 12px;
+}
+
+.sup {
+    vertical-align: super;
+    font-size: 12px;
+}
+
+.five-star-feature h2:before {
+    width: 30px;
+    content: "";
+    background-image: url(http://www.hoganchev.com/wp-content/uploads/2018/01/5-star-ico.png);
+    position: relative;
+    height: 30px;
+    display: inline-block;
+    margin-right: 5px;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+.onstar-feature h2:before {
+    width: 30px;
+    content: "";
+    background-image: url(http://www.hoganchev.com/wp-content/uploads/2018/01/4g-lte-ico.png);
+    position: relative;
+    height: 30px;
+    display: inline-block;
+    margin-right: 5px;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+.phone-feature h2:before {
+    width: 30px;
+    content: "";
+    background-image: url(http://www.hoganchev.com/wp-content/uploads/2017/06/phone-integration-icon.png);
+    position: relative;
+    height: 30px;
+    display: inline-block;
+    margin-right: 5px;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.fuel-feature h2:before {
+    width: 30px;
+    content: "";
+    background-image: url(http://www.hoganchev.com/wp-content/uploads/2018/01/fuel-ico.png);
+    position: relative;
+    height: 30px;
+    display: inline-block;
+    margin-right: 5px;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+#pg-w5a687d9f9ef04-0 h2 {
+    font-size: 36px !important;
+}
+
+#pg-w5a687d9f9ef04-0 p {
+    line-height: 15px !important;
+}
+
