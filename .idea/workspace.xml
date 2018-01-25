@@ -67,8 +67,8 @@
       <file leaf-file-name="tahoe.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/tahoe.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="630">
+              <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -507,12 +507,12 @@
       <workItem from="1515139776296" duration="15153000" />
       <workItem from="1515485484432" duration="613000" />
       <workItem from="1515570551732" duration="3124000" />
-      <workItem from="1516701126599" duration="7932000" />
+      <workItem from="1516701126599" duration="9256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242181000" />
+    <option name="totallyTimeSpent" value="243505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
@@ -920,8 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/tahoe.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="630">
+          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="31" />
           <folding />
         </state>
       </provider>
